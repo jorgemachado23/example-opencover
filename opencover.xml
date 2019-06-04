@@ -107,7 +107,7 @@
     <Module skippedDueTo="MissingPdb" hash="">
       <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
       <ModuleTime>0001-01-01T00:00:00</ModuleTime>
-      <ModuleName>MetadataViewProxies_08491d9b-d606-47b8-a639-efcd375d1a4e</ModuleName>
+      <ModuleName>MetadataViewProxies_930d5282-38e4-4e91-8b99-3314471fc137</ModuleName>
       <Classes />
     </Module>
     <Module skippedDueTo="MissingPdb" hash="2B-57-28-48-4B-F1-70-06-20-31-2C-41-13-9F-C4-08-F9-BA-B0-FA">
@@ -494,10 +494,10 @@
       <ModuleName>Microsoft.VisualStudio.TestPlatform.ObjectModel</ModuleName>
       <Classes />
     </Module>
-    <Module hash="41-1E-1E-EC-5B-21-65-0B-C6-2F-4B-BB-72-83-09-AD-02-FE-B7-63">
+    <Module hash="9E-E7-CB-1B-2E-8F-4E-0F-EC-EB-81-72-05-33-74-58-6C-B7-C3-D2">
       <Summary numSequencePoints="4" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
       <ModulePath>C:\Users\jorge\source\repos\ClassLibrary2\UnitTestProject1\bin\Debug\UnitTestProject1.dll</ModulePath>
-      <ModuleTime>2019-06-04T22:19:47.4068714Z</ModuleTime>
+      <ModuleTime>2019-06-04T23:11:24.7005367Z</ModuleTime>
       <ModuleName>UnitTestProject1</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Users\jorge\source\repos\ClassLibrary2\UnitTestProject1\UnitTest1.cs" />
@@ -673,7 +673,7 @@
     <Module hash="57-B4-37-E0-08-7C-B4-C7-A6-94-F3-AF-5F-54-B8-4A-80-19-AF-5B">
       <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
       <ModulePath>C:\Users\jorge\source\repos\ClassLibrary2\UnitTestProject1\bin\Debug\ClassLibrary2.dll</ModulePath>
-      <ModuleTime>2019-06-04T22:18:44.3738057Z</ModuleTime>
+      <ModuleTime>2019-06-04T23:11:23.5063404Z</ModuleTime>
       <ModuleName>ClassLibrary2</ModuleName>
       <Files>
         <File uid="3" fullPath="C:\Users\jorge\source\repos\ClassLibrary2\ClassLibrary2\Class1.cs" />
