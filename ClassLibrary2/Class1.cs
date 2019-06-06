@@ -10,7 +10,7 @@ namespace ClassLibrary2
     {
         public int Blah()
         {
-            return 4;
+            return 1 + 3;
         }
     }
 }
